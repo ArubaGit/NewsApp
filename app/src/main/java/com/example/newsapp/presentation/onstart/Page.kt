@@ -12,15 +12,15 @@ data class Page(
 
 val pages = listOf(
     Page(title= "Politics",
-        description = "Description of Politics, Description of Politics, Description of Politics",
+        description = "Latest updates on Politics",
         image = R.drawable.politics
 ),
     Page(title= "Sports",
-        description = "Description of Sports, Description of Politics, Description of Politics",
+        description = "Latest updates on Sports",
         image = R.drawable.sports
     ),
     Page(title= "Business",
-        description = "Description of Politics, Description of Politics, Description of Politics",
+        description = "Latest updates on Business.. \n& many more",
         image = R.drawable.stocks
     )
 )
