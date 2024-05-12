@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+<<<<<<< HEAD
     <LinearLayout
+=======
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> origin/master
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -16,12 +20,19 @@
             android:id="@+id/title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="News Wave"
+=======
+            android:text="Choose a Category"
+>>>>>>> origin/master
             android:textSize="24sp"
             android:textStyle="bold"
             android:layout_marginBottom="16dp"/>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
         <!-- Horizontal Scroll View for Category Buttons -->
         <HorizontalScrollView
             android:layout_width="match_parent"
@@ -79,10 +90,15 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Technology"/>
+<<<<<<< HEAD
 
             </LinearLayout>
         </HorizontalScrollView>
 
+=======
+            </LinearLayout>
+        </HorizontalScrollView>
+>>>>>>> origin/master
         <!-- RecyclerView for API Data -->
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/newsRecyclerView"
@@ -94,6 +110,7 @@
 
     </LinearLayout>
 
+<<<<<<< HEAD
     <!-- Icon -->
     <ImageView
         android:id="@+id/icon"
@@ -106,4 +123,6 @@
         android:layout_marginEnd="8dp"
         tools:ignore="NotSibling" />
 
+=======
+>>>>>>> origin/master
 </androidx.constraintlayout.widget.ConstraintLayout>
