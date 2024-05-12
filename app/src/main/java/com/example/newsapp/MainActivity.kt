@@ -1,5 +1,6 @@
 package com.example.newsapp
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -22,10 +23,16 @@ class MainActivity : ComponentActivity() {
         setContent {
             NewsAppTheme {
                 // A surface container using the 'background' color from the theme
-              onstartScreen()
+                onstartScreen { navigateToHomeActivity() }
 
             }
         }
     }
+        private fun navigateToHomeActivity() {
+            val intent = Intent(this, HomeScreenActivity::class.java)
+            startActivity(intent)
+            finish() // Optional: Close the current activity if needed
+        }
+
 }
 
