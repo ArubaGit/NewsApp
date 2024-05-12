@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.newsapp-mergeDebugResources-58:\\layout\\activity_home_screen.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.newsapp-main-61:\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.newsapp-mergeDebugResources-58:\\layout\\activity_news_ui.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.newsapp-main-61:\\layout\\activity_news_ui.xml"
+    },
+    {
+        "merged": "com.example.newsapp-mergeDebugResources-58:/layout/activity_home_screen.xml",
+        "source": "com.example.newsapp-main-61:/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.newsapp-mergeDebugResources-58:\\layout\\item_news_article.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.newsapp-main-61:\\layout\\item_news_article.xml"
+    }
+]

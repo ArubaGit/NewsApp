@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#FF444444</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">NewsApp</string>
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/news</item>
+        <item name="postSplashScreenTheme">@style/Theme.NewsApp</item>
+    </style>
+    <style name="Theme.NewsApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
