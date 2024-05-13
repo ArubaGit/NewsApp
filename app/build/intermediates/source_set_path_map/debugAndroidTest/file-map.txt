@@ -29,7 +29,7 @@ com.example.newsapp.test.app-lifecycle-runtime-ktx-2.7.0-27 C:\Users\ASUS\.gradl
 com.example.newsapp.test.app-ui-text-release-28 C:\Users\ASUS\.gradle\caches\transforms-3\f17f6b973d6f6347318f28be8542c1b1\transformed\ui-text-release\res
 com.example.newsapp.test.app-ui-unit-release-29 C:\Users\ASUS\.gradle\caches\transforms-3\f31fb2fc7495caff4f98cb6caf7f971b\transformed\ui-unit-release\res
 com.example.newsapp.test.app-activity-1.8.2-30 C:\Users\ASUS\.gradle\caches\transforms-3\fdab0ea5bd03d2f6bc9c2d6111f8148e\transformed\activity-1.8.2\res
-com.example.newsapp.test.app-androidTest-31 E:\IIITD\Sem 2\MC\NewsApp\app\build\generated\res\resValues\androidTest\debug
-com.example.newsapp.test.app-mergeDebugAndroidTestResources-32 E:\IIITD\Sem 2\MC\NewsApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.newsapp.test.app-mergeDebugAndroidTestResources-33 E:\IIITD\Sem 2\MC\NewsApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.newsapp.test.app-merged_res-34 E:\IIITD\Sem 2\MC\NewsApp\app\build\intermediates\merged_res\debugAndroidTest
+com.example.newsapp.test.app-androidTest-31 C:\Users\ASUS\Downloads\NewsApp_save\NewsApp_save\NewsApp\app\build\generated\res\resValues\androidTest\debug
+com.example.newsapp.test.app-mergeDebugAndroidTestResources-32 C:\Users\ASUS\Downloads\NewsApp_save\NewsApp_save\NewsApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.newsapp.test.app-mergeDebugAndroidTestResources-33 C:\Users\ASUS\Downloads\NewsApp_save\NewsApp_save\NewsApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.newsapp.test.app-merged_res-34 C:\Users\ASUS\Downloads\NewsApp_save\NewsApp_save\NewsApp\app\build\intermediates\merged_res\debugAndroidTest
